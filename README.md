@@ -215,18 +215,6 @@ This project demonstrates the practical implementation of modern encryption tech
 
 ---
 
-## 🙌 Acknowledgment
-
-This project was developed as part of a **Security Lab Project** to explore real-world applications of cryptography and cybersecurity.
-
----
-
-## ⭐ Author
-
-**Yashasvi Bhati**
-B.Tech Computer Science Engineering
-Security & Development Enthusiast 🚀
-
 ---
 
 ## 🌟 Show Your Support
