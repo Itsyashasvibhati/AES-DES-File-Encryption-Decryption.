@@ -242,8 +242,8 @@ If you like this project:
 
 For queries or collaboration:
 
-* GitHub: https://github.com/your-username
-* LinkedIn: (Add your profile)
+* GitHub: https://github.com/Itsyashasvibhati
+* LinkedIn: (www.linkedin.com/in/yashasvi-bhati-8444b82a1)
 
 ---
 
