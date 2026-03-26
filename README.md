@@ -15,7 +15,7 @@ This project integrates:
 * 🧪 **Fernet Encryption (Basic Implementation)**
 
 All features are combined into a **centralized GUI dashboard**, making the system easy to use and highly efficient.
-![https://github.com/Itsyashasvibhati/AES-DES-File-Encryption-Decryption./blob/43054b5d4aa586d1f3cebc27b5b8142b2ecfe33d/Screenshot%202026-03-26%20223731.png]
+![Picture](https://github.com/Itsyashasvibhati/AES-DES-File-Encryption-Decryption./blob/43054b5d4aa586d1f3cebc27b5b8142b2ecfe33d/Screenshot%202026-03-26%20223731.png)
 ---
 
 ## 🚀 Features
