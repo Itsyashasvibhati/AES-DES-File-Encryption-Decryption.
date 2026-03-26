@@ -1,6 +1,6 @@
 # 🔐 Comparative File Encryption Tool
 
-### AES • DES • Fernet | GUI Dashboard | Multi-File Encryption
+### AES • DES • Fernet | GUI Dashboard 
 
 ---
 
@@ -148,6 +148,7 @@ User → Dashboard → Select Algorithm → Select File(s) → Enter Password
 ```
 
 ---
+![image](https://github.com/Itsyashasvibhati/AES-DES-File-Encryption-Decryption./blob/9121c657bd8554dc6d18c812a92b06742a72134a/Screenshot%202026-03-26%20225233.png)
 
 ## 📊 Comparison (AES vs DES vs Fernet)
 
