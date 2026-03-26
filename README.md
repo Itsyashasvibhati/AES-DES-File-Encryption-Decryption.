@@ -48,6 +48,8 @@ All features are combined into a **centralized GUI dashboard**, making the syste
 
 ---
 
+![picture3](https://github.com/Itsyashasvibhati/AES-DES-File-Encryption-Decryption./blob/76a23af667a56e47cbd59c68f4f32903b76cb03e/Screenshot%202026-03-26%20223929.png)
+
 ## 📂 Project Structure
 
 ```
