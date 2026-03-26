@@ -19,6 +19,9 @@ All features are combined into a **centralized GUI dashboard**, making the syste
 ![Picture](https://github.com/Itsyashasvibhati/AES-DES-File-Encryption-Decryption./blob/43054b5d4aa586d1f3cebc27b5b8142b2ecfe33d/Screenshot%202026-03-26%20223731.png)
 ---
 
+
+![Picture2](https://github.com/Itsyashasvibhati/AES-DES-File-Encryption-Decryption./blob/20fd7b47963d9e31e108f253f259c499ed19b075/Screenshot%202026-03-26%20223750.png)
+
 ## 🚀 Features
 
 ### 🔒 Security Features
